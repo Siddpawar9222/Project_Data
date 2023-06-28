@@ -28,5 +28,15 @@
         "phone": "82562820608",
         "id": 5
       }
+    ] ,
+
+    "customer": [
+      {
+        "name": "elon musk",
+        "username": "elon",
+        "email": "elon@email.com",
+        "phone": "543151342",
+        "id": 1
+      }
     ]
   }
